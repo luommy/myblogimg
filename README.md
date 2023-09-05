@@ -1,2 +1,2 @@
-# myblogimg
-images
+# myimg
+my image gallery
